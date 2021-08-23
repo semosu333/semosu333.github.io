@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 예쁜배경
+title: Beauty Wallpaper
 email: placeless@outlook.com
-author: "예쁜배경"
+author: "Beauty Wallpaper"
 logo: "./apple-touch-icon.png"
-lang: "ko"
-description: "스마트폰 휴대폰 예쁜배경화면"
+lang: "en"
+description: "Beauty Wallpaper"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fluke103.github.io" # the base hostname & protocol for your site
 timezone: Asia/Shanghai
